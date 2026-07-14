@@ -10,11 +10,11 @@
  - Students
  - Hostel
  - Rooms
- - Work
- - Worker
  - Mess
  - Allotment
  - Complaints
+ - Worker
+ - Department
 
  Each entity consists of several attributes.
 
